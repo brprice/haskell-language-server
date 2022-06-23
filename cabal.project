@@ -63,6 +63,12 @@ source-repository-package
   tag: 7a0af7a8fd38045fd15fb13445bdcc7085325460
   -- https://github.com/tibbe/ekg-json/pull/12
 
+source-repository-package
+  type:git
+  location: https://github.com/ndmitchell/hlint
+  tag: e41ba201696154254608738ca4097c4bbe82892c
+  --sha256: 0q2cykgc3qny0ia3hsz2m564vgzascrn6ds3sy0fixjz10b1r5js
+
 allow-newer:
   -- ghc-9.2
   ----------
